@@ -20,4 +20,4 @@ app.use('/cyqq', proxy({
 
 
 
-app.listen(3002)
+app.listen(80)
